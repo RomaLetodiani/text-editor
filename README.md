@@ -1,4 +1,3 @@
-````markdown
 # Text Editor
 
 A simple text editor created using Tkinter in Python.
@@ -31,7 +30,6 @@ A simple text editor created using Tkinter in Python.
    ```bash
    git clone https://github.com/RomaLetodiani/text-editor
    ```
-````
 
 2. **Navigate to the project directory:**
 
@@ -66,7 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or feedback, feel free to [contact the maintainers](mailto:roman.letodiani03@gmail.com).
-
-```
-
-```
