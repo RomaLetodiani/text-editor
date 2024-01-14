@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, feel free to [contact the maintainers](mailto:roman.letodiani03@gmail.com).
+For any questions or feedback, feel free to [contact me](mailto:roman.letodiani03@gmail.com).
